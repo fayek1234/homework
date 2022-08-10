@@ -1,0 +1,12 @@
+
+
+body {
+            font-family: Arial, Helvetica, Verdana;
+            background-image:url(backimage.jpg);
+			font-size: 15px;
+            font-style: italic;
+            font-color: black;
+			background-repeat: no-repeat;
+			background-position: center, top left;
+			background-size: 2000px, 80%;
+		}
